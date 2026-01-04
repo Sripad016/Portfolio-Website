@@ -29,7 +29,7 @@ The project is built as part of a UI/Frontend challenge to demonstrate frontend 
 - Professional skills section with progress indicators
 - Interactive project gallery with hover zoom effect
 - Clean and modern UI design
-- The website is built with a responsive layout and adapts to different screen sizes, with continuous improvements for better mobile experience.
+- Built with a responsive layout that adapts across mobile and desktop screen sizes, with minor refinements in progress.
 
 ---
 
@@ -63,7 +63,7 @@ All animations are kept smooth and non-distracting to enhance user experience.
 
 ## Responsive Design
 
-Built with a responsive layout that adapts across mobile and desktop screen sizes, with minor refinements in progress.
+The website is built with a responsive layout and adapts to different screen sizes, with continuous improvements for better mobile experience.
 
 ---
 
