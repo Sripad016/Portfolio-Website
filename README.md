@@ -15,7 +15,7 @@ This project focuses on clean design, smooth animations, and a user-friendly lay
 ## About the Project
 
 This portfolio website is designed to present my personal information, skills, and interests in a visually engaging way.  
-It includes smooth animations, interactive sections, and a responsive layout that works well across different devices.
+It includes smooth animations, interactive sections, and a responsive layout that adapts across different screen sizes.
 
 The project is built as part of a UI/Frontend challenge to demonstrate frontend fundamentals and attention to detail.
 
@@ -36,7 +36,7 @@ The project is built as part of a UI/Frontend challenge to demonstrate frontend 
 ## Technologies Used
 
 - HTML5
-- CSS3 / SCSS
+- CSS3
 - JavaScript
 - Git & GitHub
 
