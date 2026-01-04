@@ -6,6 +6,7 @@ This project focuses on clean design, smooth animations, and a user-friendly lay
 ---
 
 ## Live Demo
+
 🔗 Live Website: https://sripad-portfolio.netlify.app/  
 🔗 GitHub Repository: https://github.com/Sripad016/Portfolio-Website/
 
@@ -22,39 +23,39 @@ The project is built as part of a UI/Frontend challenge to demonstrate frontend 
 
 ## Features
 
-- Sticky navigation header with smooth scrolling  
-- Animated hero section with text reveal effect  
-- Personal information and about section  
-- Professional skills section with progress indicators  
-- Interactive project gallery with hover zoom effect  
-- Fully responsive layout for mobile and desktop  
-- Clean and modern UI design  
+- Sticky navigation header with smooth scrolling
+- Animated hero section with text reveal effect
+- Personal information and about section
+- Professional skills section with progress indicators
+- Interactive project gallery with hover zoom effect
+- Clean and modern UI design
+- The website is built with a responsive layout and adapts to different screen sizes, with continuous improvements for better mobile experience.
 
 ---
 
 ## Technologies Used
 
-- HTML5  
-- CSS3 / SCSS  
-- JavaScript  
-- Git & GitHub  
+- HTML5
+- CSS3 / SCSS
+- JavaScript
+- Git & GitHub
 
 ---
 
 ## Sections Included
 
-- **Hero Section** – Introduction with animated text reveal  
-- **About Me** – Brief personal introduction and background  
-- **Skills** – Core frontend skills with visual indicators  
-- **Gallery** – Projects with hover zoom interaction  
-- **Contact** – Basic contact information  
+- **Hero Section** – Introduction with animated text reveal
+- **About Me** – Brief personal introduction and background
+- **Skills** – Core frontend skills with visual indicators
+- **Gallery** – Projects with hover zoom interaction
+- **Contact** – Basic contact information
 
 ---
 
 ## Animations & Interactions
 
-- Text reveal animation on page load   
-- Hover zoom effect on gallery images  
+- Text reveal animation on page load
+- Hover zoom effect on gallery images
 
 All animations are kept smooth and non-distracting to enhance user experience.
 
@@ -62,25 +63,23 @@ All animations are kept smooth and non-distracting to enhance user experience.
 
 ## Responsive Design
 
-The website is responsive and adapts seamlessly to:
-- Mobile devices  
-- Tablets  
-- Desktop screens  
+Built with a responsive layout that adapts across mobile and desktop screen sizes, with minor refinements in progress.
 
 ---
 
 ## Deployment
 
 The project is deployed using:
-- Netlify   
+
+- Netlify
 
 ---
 
 ## Learning Outcome
 
 Through this project, I practiced:
-- Responsive layout design  
-- CSS animations and hover effects  
-- Basic JavaScript for UI interactions  
-- Structuring a clean and maintainable frontend project  
 
+- Responsive layout design
+- CSS animations and hover effects
+- Basic JavaScript for UI interactions
+- Structuring a clean and maintainable frontend project
